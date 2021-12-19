@@ -1,0 +1,10 @@
+# Use /rgbjqmsg reload to reload the config file
+
+# Enable RGB join & quit message or not
+# Default: true
+enable: true
+
+# Starting index of the color. Default: -1
+# See starting_index.png for the corresponding color
+# P.S: Set this to -1 to enable random starting index, so that it will be different everytime
+starting-index: -1

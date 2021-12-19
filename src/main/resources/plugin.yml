@@ -1,0 +1,6 @@
+name: RGB_JoinQuit_Msg
+version: '${project.version}'
+main: me.manhinnn0509.rgb_joinquit_msg.RGB_JoinQuit_Msg
+api-version: 1.18
+commands:
+  rgbjqmsg:
